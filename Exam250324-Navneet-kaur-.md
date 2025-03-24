@@ -17,7 +17,7 @@ g.Are there any heavy calculation running in excel?
 
 
 ## Few sites with basic MS Windows memory Trouble shooting 
- [This is link from microsoft communirty website](https://answers.microsoft.com/en-us/wind)
+ [This is link from microsoft communirty website](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-your-computer-is-low-on-memory-alert/a96cf301-6aad-40d5-83cf-1e6789a68223)
  I go through this sites and after read if find this site is usefull to clear doubt reagrding MS window memory troubleshooting beacuse everything is clearly explained step by step to make it easy for us .
 
 
