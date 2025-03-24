@@ -26,7 +26,7 @@ Aftere checking this sitem i think this more valuable as comared to previous one
 
 
 ## Here is  few sites with trouble MS windows application in general
-[This link is from Microsofr community](https://answers.microsoft.com/en-us/windows/forum)
+[This link is from Microsofr community](https://answers.microsoft.com/en-us/windows/forum/all/applications-not-opening-after-windows-11-update/30040444-fdc4-4800-9e47-9fd91d5cd408)
 I find this site amazing in this someone share their problem about of  MS application is not working . In reply to solve their theor issue everything is deeply expained that how they can resolve it like they can resatart their computer ,check update ,reinstall ,storage, etc .
 
 [I choose this link from microsoft coomunity](https://answers.microsoft.com/en-us/windows/forum/all/windows-11-no-microsoft-apps-working/5)
